@@ -1,2 +1,2 @@
 # GRIP-TSF-Internship
-Internshi Tasks
+Internship Tasks
